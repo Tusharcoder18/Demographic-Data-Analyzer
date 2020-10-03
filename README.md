@@ -1,6 +1,5 @@
-### Assignment
+### Data Science Project - Demographic Data Analyzer
 
-# Demographic Data Analyzer
 
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
@@ -26,19 +25,13 @@ You must use Pandas to answer the following questions:
 
 Use the starter code in the file `demographic_data_anaylizer`. Update the code so all variables set to "None" are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
 
-Unit tests are written for you under `test_module.py`.
-
-### Development
-
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
-
 ### Testing 
 
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
+The unit tests for this project are in `test_module.py`. The tests will run automatically whenever `main.py` gets executed.
 
-### Submitting
+### Note
 
-Copy your project's URL and submit it to freeCodeCamp.
+This project is done under Freecodecamp's Data Analysis with Python Certification.
 
 ### Dataset Source
 
